@@ -149,12 +149,12 @@ pip install pywin32
 ### 🚀 Running the Program
 
 **Method 1: Double-click**
-- Simply double-click on `YouTube_Download_Master_5_1.py` file
+- Simply double-click on `YouTube Download Master.py` file
 
 **Method 2: Via Command Line**
 ```
 cd path\to\script\folder
-python YouTube_Download_Master_5_1.py
+python "YouTube Download Master.py"
 ```
 
 **Method 3: Create Shortcut**
@@ -162,7 +162,8 @@ python YouTube_Download_Master_5_1.py
 2. Move shortcut to desktop
 3. Launch with double-click
 
-On first launch, a language selection window will appear.
+**Method 4: Download and start the exe file**
+1. And that's it.
 
 ---
 
@@ -217,7 +218,7 @@ Extracts audio track from video.
 |--------|-------------|
 | 🎬 Single Video | Audio from one video |
 | 📋 Playlist | Audio from all playlist videos |
-| 📺 Channel | Audio from entire channel (⚠️ lots of data!) |
+| 📺 Channel | Audio from entire channel (⚠️ for insane people!) |
 
 **Audio formats:**
 | Format | Description | Bitrate |
@@ -611,7 +612,7 @@ pip install pywin32
 **Способ 2: Через командную строку**
 ```
 cd путь\к\папке\со\скриптом
-python YouTube_Download_Master_5_1.py
+python "YouTube Download Master.py"
 ```
 
 **Способ 3: Создание ярлыка**
@@ -619,7 +620,8 @@ python YouTube_Download_Master_5_1.py
 2. Переместите ярлык на рабочий стол
 3. Запускайте двойным кликом
 
-При первом запуске появится окно выбора языка интерфейса.
+**Способ 4: Скачайте и запустите exe-файл**
+1. На этом всё.
 
 ---
 
@@ -674,7 +676,7 @@ python YouTube_Download_Master_5_1.py
 |----------|----------|
 | 🎬 Один ролик | Аудио из одного видео |
 | 📋 Плейлист | Аудио из всех видео плейлиста |
-| 📺 Канал | Аудио со всего канала (⚠️ много данных!) |
+| 📺 Канал | Аудио со всего канала (⚠️ для психически больных людей!) |
 
 **Форматы аудио:**
 | Формат | Описание | Битрейт |
