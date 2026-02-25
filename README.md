@@ -1,3 +1,8 @@
+# This program is discontinued and will not receive updates. Use my new program - Aura Video Downloader
+# Развитие этой программы прекращено и обновлений не будет. Используйте мой новую программу - Aura Video Downloader
+Link/Ссылка: https://github.com/communism420/Aura-Video-Downloader
+
+
 # 📺 YouTube Download Master
 Best program for downloading YouTube videos (with yt-dlp)
 
